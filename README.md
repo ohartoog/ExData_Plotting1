@@ -1,6 +1,8 @@
 ## IMPORTANT!
-Please do the following after cloning and opening the scripts in R studio
+Please do the following after cloning and opening the scripts in R studio:
+
 Session -> Set Working Directory -> To Source File Location
+
 Otherwise, the data will not be dowloaded to the correct dubdirectory.
 
 
